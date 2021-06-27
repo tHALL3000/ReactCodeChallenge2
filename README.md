@@ -8,6 +8,6 @@
 
 <h3> # ReactCodeChallenge2 </h3>
 <p>Created with CodeSandbox</p>
-codesandbox.io/s/github/thall3000/reactcodechallenge2
+https://codesandbox.io/s/github/thall3000/reactcodechallenge2
 <p>git hub page</p>
 https://thall3000.github.io/ReactCodeChallenge2/

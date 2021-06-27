@@ -1,2 +1,10 @@
-# ReactCodeChallenge2
-Created with CodeSandbox
+<h2>The Challenge: Loop Over an Array</h2>
+<p>For this challenge, I have an array of users. I will Loop over those users using JavaScript's .map().</p>
+
+<ul><strong>Techniques Used: At the end of this challenge, I will be able to:</strong></p>
+
+<li>Use the .map() method to render data.</li>
+<li>Parse and display data in an array of objects</li>
+
+<h3> # ReactCodeChallenge2 </h3>
+<p>Created with CodeSandbox</p>
